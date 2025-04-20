@@ -10,10 +10,6 @@ h1 {
     padding: 5% 0;
 }
 
-.contents {
-    margin: auto;
-}
-
 .blue .yellow {
     height: 25%;
     aspect-ratio: 1;
@@ -26,4 +22,8 @@ h1 {
 
 .yellow {
     background-color: #ffdf00;
+}
+
+.contents {
+    margin: auto;
 }
