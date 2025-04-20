@@ -7,16 +7,15 @@ body {
 h1 {
     text-align: center;
     margin: 0 auto;
-    padding: 10% 0;
+    padding: 5% 0;
 }
 
 .contents {
-    display: flex;
-    margin: 0 auto;
+    margin: auto;
 }
 
 .blue .yellow {
-    height: 45%;
+    height: 25%;
     aspect-ratio: 1;
 }
 
