@@ -15,16 +15,16 @@ h1 {
     margin: 0 auto;
 }
 
-#blue, #yellow {
+.blue .yellow {
     height: 45%;
     aspect-ratio: 1;
 }
 
 
-#blue {
+.blue {
     background-color: #005192;
 }
 
-#yellow {
+.yellow {
     background-color: #ffdf00;
 }
