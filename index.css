@@ -4,3 +4,27 @@ body {
     font-style: normal;
     color: #005192;
 }
+h1 {
+    text-align: center;
+    margin: 0 auto;
+    padding: 10% 0;
+}
+
+.contents {
+    display: flex;
+    margin: 0 auto;
+}
+
+#blue, #yellow {
+    height: 45%;
+    aspect-ratio: 1;
+}
+
+
+#blue {
+    background-color: #005192;
+}
+
+#yellow {
+    background-color: #ffdf00;
+}
