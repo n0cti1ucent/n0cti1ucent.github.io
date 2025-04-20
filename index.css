@@ -10,10 +10,9 @@ h1 {
     padding: 5% 0;
 }
 
-.blue .yellow {
+.blue, .yellow {
     height: 150px;
     width: 150px;
-    aspect-ratio: 1;
 }
 
 
