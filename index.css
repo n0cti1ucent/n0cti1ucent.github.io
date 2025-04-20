@@ -2,8 +2,8 @@ body {
     font-family: "Public Sans", sans-serif;
     font-optical-sizing: auto;
     font-style: normal;
-    color: #fff;
     background-color: #005192;
+    color: #fff;
 }
 h1 {
     text-align: center;
@@ -15,6 +15,6 @@ h1 {
     height: 50px;
     line-height: 50px;
     background-color: #ffdf00;
-    border-radius: 50%;
+    border-radius: 100%;
     margin: auto;
   }
