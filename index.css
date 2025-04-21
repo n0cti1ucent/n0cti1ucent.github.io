@@ -18,6 +18,7 @@ body {
 h1 {
     text-align: center;
     padding-top: 2.5%;
+    padding-bottom: 2.5%;
 }
 
 .border-radius {
@@ -54,14 +55,16 @@ h1 {
 }
 
 .timeMashine .light {
-        background-color: var(--c-shadow);
-    }
-    .timeMashine .border-radius {
-        background-color: var(--c-shadow);
-    }
-    .timeMashine .shadow {
-        background-color: var(--c-orange);
-    }
+    background-color: var(--c-shadow);
+}
+
+.timeMashine .border-radius {
+    background-color: var(--c-shadow);
+}
+
+.timeMashine .shadow {
+    background-color: var(--c-orange);
+}
 
 @media screen and (max-width: 480px) {
 
