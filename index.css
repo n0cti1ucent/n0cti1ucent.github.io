@@ -53,11 +53,16 @@ h1 {
     border-radius: 50%;
 }
 
-#kukan.timeMashine.light, #kukan.timeMashinen.border-radius {
-    background-color: var(--c-shadow);
-}
-#kukan.timeMashine.shadow {
-    background-color: var(--c-orange);
+#kukan.timeMashine {
+    .light {
+        background-color: var(--c-shadow);
+    }
+    .border-radius {
+        background-color: var(--c-shadow);
+    }
+    .shadow {
+        background-color: var(--c-orange);
+    }
 }
 
 @media screen and (max-width: 480px) {
