@@ -13,19 +13,23 @@ h1 {
   }
 
 .shadow {
+    position: fixed;
+    bottom: 250px;
         background-color:#c0c0c0;
-        width: 150px;
-        height: 100px;
+        width: 50px;
+        height: 20px;
         border-radius: 50%;
+        margin: 0 auto;
 }
 
 .light {
     position: fixed;
     bottom: 0;
-    width: 300px;
-    height: 150px;
+    width: 600px;
+    height: 300px;
     border-radius: 50% / 100% 100% 0 0;
     background:#ffdf00;
+    margin: 0 auto;
 }
 
 body {
