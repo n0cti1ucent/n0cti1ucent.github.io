@@ -53,13 +53,13 @@ h1 {
     border-radius: 50%;
 }
 
-.timeMashine.light {
+.timeMashine .light {
         background-color: var(--c-shadow);
     }
-    .timeMashine.border-radius {
+    .timeMashine .border-radius {
         background-color: var(--c-shadow);
     }
-    .timeMashine.shadow {
+    .timeMashine .shadow {
         background-color: var(--c-orange);
     }
 
