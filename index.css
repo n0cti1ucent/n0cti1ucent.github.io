@@ -2,6 +2,7 @@
     --c-yellow: #ffdf00;
     --c-shadow: #c0c0c0;
     --c-blue: #005192;
+    --c-orange: #ea5415;
 }
 
 body {
@@ -50,6 +51,13 @@ h1 {
     width: 50px;
     height: 30px;
     border-radius: 50%;
+}
+
+#kukan.timeMashine.light, #kukan.timeMashinen.border-radius {
+    background-color: var(--c-shadow);
+}
+#kukan.timeMashine.shadow {
+    background-color: var(--c-orange);
 }
 
 @media screen and (max-width: 480px) {
