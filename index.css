@@ -1,3 +1,15 @@
+
+
+body {
+    font-family: "Public Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    background-color: #005192;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
 h1 {
     text-align: center;
     padding-top: 8%;
@@ -12,6 +24,16 @@ h1 {
     margin: auto;
   }
 
+.light {
+    position: relative;
+    margin-bottom: 0;
+    width: 600px;
+    height: 300px;
+    border-radius: 50% / 100% 100% 0 0;
+    background:#ffdf00;
+    margin: 0 auto;
+}
+
 .shadow {
     position: absolute;
     bottom: 50px;
@@ -22,24 +44,4 @@ h1 {
         width: 50px;
         height: 20px;
         border-radius: 50%;
-}
-
-.light {
-    position: relative;
-    bottom: 0;
-    width: 600px;
-    height: 300px;
-    border-radius: 50% / 100% 100% 0 0;
-    background:#ffdf00;
-    margin: 0 auto;
-}
-
-body {
-    font-family: "Public Sans", sans-serif;
-    font-optical-sizing: auto;
-    font-style: normal;
-    background-color: #005192;
-    color: #fff;
-    margin: 0;
-    padding: 0;
 }
