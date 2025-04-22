@@ -35,8 +35,8 @@ h1 {
     bottom: 0;
     right: 0;
     left: 0;
-    width: 700px;
-    height: 350px;
+    height: 65%;
+    aspect-ratio: 2/1;
     border-radius: 50% / 100% 100% 0 0;
     background: var(--c-yellow);
     margin: 0 auto;
