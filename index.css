@@ -25,7 +25,7 @@ h1 {
     width: 10px;
     height: 10px;
     line-height: 50px;
-    background-color: var(--c-yellow);
+    background-color: var(--c-orange);
     border-radius: 100%;
     margin: auto;
 }
@@ -38,7 +38,7 @@ h1 {
     height: 65%;
     aspect-ratio: 2/1;
     border-radius: 50% / 100% 100% 0 0;
-    background: var(--c-yellow);
+    background: var(--c-orange);
     margin: 0 auto;
 }
 
