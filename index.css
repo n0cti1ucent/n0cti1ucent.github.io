@@ -10,13 +10,10 @@ body {
     font-family: "Public Sans", sans-serif;
     font-optical-sizing: auto;
     font-style: normal;
+    background-color: var(--c-blue);
     color: #fff;
     margin: 0;
     padding: 0;
-}
-
-#kukan {
-    background-color: var(--c-blue);
 }
 
 h1 {
@@ -69,7 +66,7 @@ h1 {
 .timeMashine .shadow {
     background-color: var(--c-orange);
 }
-.timeMashine #kukan {
+body .timeMashine {
     background-color: var(--c-blue-shadow);
 }
 
