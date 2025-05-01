@@ -2,6 +2,7 @@
     --c-yellow: #ffdf00;
     --c-shadow: #c0c0c0;
     --c-blue: #005192;
+    --c-blue-shadow: #003f77;
     --c-orange: #ea5415;
 }
 
@@ -64,6 +65,9 @@ h1 {
 
 .timeMashine .shadow {
     background-color: var(--c-orange);
+}
+.timeMashine body {
+    background-color: var(--c-blue-shadow);
 }
 
 @media screen and (max-width: 480px) {
